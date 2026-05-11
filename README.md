@@ -22,7 +22,7 @@ An Informatics Student at Telkom University
 ## Featured Projects
 - Ecommerce Analytics Dashboard
 - Cyber Security Forensics
-- Upcoming Go CLI Tools
+- Go CLI Tools
 
 ## Contact
 - Email: azizsyanjaya7@gmail.com
