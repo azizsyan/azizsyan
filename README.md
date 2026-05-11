@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 
 
-<!--
-**azizsyan/azizsyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aziz Syanjaya  
+An Informatics Student at Telkom University
 
-Here are some ideas to get you started:
+## About Me
+- Currently learning Go, Python, C++, and Web Development
+- Interested in Cyber Security & Data Analytics
+- Building dashboard and analytics projects
+- Passionate about software engineering and backend systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Python
+- Go
+- C++
+- HTML
+- CSS
+- JavaScript
+- Streamlit
+- Git & GitHub
+
+## Featured Projects
+- Ecommerce Analytics Dashboard
+- Cyber Security Forensics
+- Upcoming Go CLI Tools
+
+## Contact
+- Email: azizsyanjaya7@gmail.com
